@@ -1,0 +1,29 @@
+{
+  "name": "crypto-api",
+  "version": "1.0.0",
+  "description": "include apis to help people speed up CI/CD and develop",
+  "main": "index.js",
+  "scripts": {
+    "test": "test crypto-api"
+  },
+
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceMaBenTengHa/connect-world.git"
+  },
+  "keywords": [
+    "connect",
+    "api"
+  ],
+  "author": "ceMaBenTengHa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceMaBenTengHa/connect-world/issues"
+  },
+  "homepage": "https://github.com/ceMaBenTengHa/connect-world#readme"
+}
